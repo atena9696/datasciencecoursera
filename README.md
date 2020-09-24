@@ -1,4 +1,4 @@
-#README.md
+README.md
 
 It is the file you read right now and tries to explain the purpose and the contents of the repository.
 get_project_data.R
